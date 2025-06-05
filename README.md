@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Mohit Sharma 👋
 
-<!--
-**mohit-sharma-dadhich/mohit-sharma-dadhich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer and tech enthusiast on a continuous journey to master full-stack development, with a strong foundation in HTML, CSS, JavaScript, and the MERN stack. I enjoy building practical projects that help me learn and grow every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I’m working on
+
+- Improving my skills in backend technologies like Node.js and Express.js  
+- Building projects to solidify my knowledge of full-stack web development  
+- Exploring open-source contributions and collaborative coding  
+- Preparing for GSoC and enhancing my Git & GitHub workflow
+
+---
+
+## 💡 Skills & Technologies
+
+- **Frontend:** HTML, CSS, JavaScript (ES6+), React.js  
+- **Backend:** Node.js, Express.js, MongoDB (currently learning)  
+- **Tools & Platforms:** Git, GitHub, VS Code, Chrome DevTools  
+- **Other:** Python, Problem Solving, Project-based learning  
+
+---
+
+## 📂 Projects & Practice
+
+- **Learning Curve** – A personal repo documenting my weekly learning progress with mini-projects on web fundamentals  
+- **Tic Tac Toe Game** – A responsive game built with JavaScript for fun and practice  
+- **Open Source Practice** – Exploring open-source contributions with a goal to give back to the community
+
+You can explore my repositories here 👉 [My GitHub Repositories](https://github.com/mohit-sharma-dadhich)
+
+---
+
+### "Before you start some work, always ask yourself three questions – Why am I doing it, What the results might be, and Will I be successful. Only when you think deeply and find satisfactory answers to these questions, go ahead." – Chanakya
+
+---
+## 📫 Connect with Me
+
+- LinkedIn: [Mohit Sharma](https://www.linkedin.com/in/mohit-sharma-88a274319)  
+- GitHub: [@mohit-sharma-dadhich](https://github.com/mohit-sharma-dadhich)
+
+---
+
+
+Thanks for stopping by! Feel free to explore my projects and connect with me.  
+Happy coding! 🚀
+
