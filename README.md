@@ -39,7 +39,7 @@ You can explore my repositories here 👉 [My GitHub Repositories](https://githu
 
 - LinkedIn: [Mohit Sharma](https://www.linkedin.com/in/mohit-sharma-88a274319)  
 - GitHub: [@mohit-sharma-dadhich](https://github.com/mohit-sharma-dadhich)
-- 📧 Email: [sharmamohit82900@gmail.com](mailto:sharmamohit82900@gmail.com)
+- Email: [sharmamohit82900@gmail.com](mailto:sharmamohit82900@gmail.com)
 
 ---
 
