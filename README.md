@@ -36,10 +36,11 @@ You can explore my repositories here 👉 [My GitHub Repositories](https://githu
 
 ---
 ## 📫 Connect with Me
-
-- LinkedIn: [Mohit Sharma](https://www.linkedin.com/in/mohit-sharma-dadhich)  
-- GitHub: [@mohit-sharma-dadhich](https://github.com/mohit-sharma-dadhich)
-- Email: [sharmamohit82900@gmail.com](mailto:sharmamohit82900@gmail.com)
+- 🔗 LinkedIn: [Mohit Sharma](https://www.linkedin.com/in/mohit-sharma-dadhich)  
+- 💻 GitHub: [@mohit-sharma-dadhich](https://github.com/mohit-sharma-dadhich)  
+- ✉️ Email: [sharmamohit82900@gmail.com](mailto:sharmamohit82900@gmail.com)  
+- 📝 Dev.to: [@mohit-sharma-dadhich](https://dev.to/mohit-sharma-dadhich)
+- 💬 Discord: [@mohitsharma82](https://discord.com/users/1243919300931358754)
 
 ---
 
